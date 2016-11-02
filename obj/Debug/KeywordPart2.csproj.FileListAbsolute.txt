@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\KeywordPart2\KeywordPart2\bin\Debug\KeywordPart2.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\KeywordPart2\KeywordPart2\bin\Debug\KeywordPart2.exe
+c:\users\admin\documents\visual studio 2015\Projects\KeywordPart2\KeywordPart2\bin\Debug\KeywordPart2.pdb
+c:\users\admin\documents\visual studio 2015\Projects\KeywordPart2\KeywordPart2\obj\Debug\KeywordPart2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\KeywordPart2\KeywordPart2\obj\Debug\KeywordPart2.exe
+c:\users\admin\documents\visual studio 2015\Projects\KeywordPart2\KeywordPart2\obj\Debug\KeywordPart2.pdb
