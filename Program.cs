@@ -110,59 +110,6 @@ namespace KeywordPart2
             Console.ReadLine();
         }
     }
-
-    class Word2
-    {
-        
-
-        public static string removeApostrophy(string keyword)
-        {
-            return keyword.Replace("’s","");
-        }
-
-        public static bool hasPunctionation(char c)
-        {
-            if (c != ',' && c != '-' && c != '—' && c != ':' && c != '(' && c != ')' && c != '”' && c != '“' && c != '?')
-                return true;
-            else
-                return false;
-        }
-
-        public static List<string> FixSentences(List<string> sentences)
-        {
-            for (int i = 0; i < sentences.Count; i++)
-            {
-                // REMOVE SPACE AT START OF SENTENCE
-                try
-                {
-                    if (sentences[i].StartsWith(" "))
-                    {
-                        sentences[i] = sentences[i].Remove(0, 1);
-                    }
-
-                    // FIX NAME PREFIX
-                    if (sentences[i].Contains("Mr.") || sentences[i].Contains("Mrs.") || sentences[i].Contains("Dr.") || sentences[i].Contains("Prof."))
-                    {
-                        sentences[i] += sentences[i + 1];
-                        sentences.RemoveAt(i + 1);
-                    }
-
-                    // DETECTS ABBREVIATED WORDS (CAN BE SCALED => ADJUST LENGTH BASED ON NUMBER OF '.')
-                    if (sentences[i].Contains(".") && sentences[i].Length < 5)
-                    {
-                        sentences[i + 1] = sentences[i + 1].Insert(0, sentences[i]);
-                        sentences.RemoveAt(i);
-                    }
-                }
-                catch (Exception)
-                {
-
-                }
-            }
-            return sentences;
-        }
-    }
-
     class Reader
     {
         public static List<string> ReadFromFile()
