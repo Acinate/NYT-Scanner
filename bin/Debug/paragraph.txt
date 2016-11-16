@@ -1,46 +1,122 @@
-Ten years ago, a little-known tech entrepreneur named Elon Musk published a secret master plan for Tesla Motors, an ambitious electric car start-up he had funded.
+﻿There are more reasons than ever to understand how to protect your personal information.
 
-Revolutionary technologies always start as impractical and expensive, Mr. Musk explained, so Tesla’s first car would be a two-seat roadster that sold for $110,000. But by plowing profits from that car into research and production capacity, Mr. Musk promised that Tesla would quickly create a series of cheaper cars in higher volumes, all toward an almost mythical aim: creating a long-range electric car that could travel more than 200 miles on a single charge, but that cost less than $40,000 for the privilege.
+Major hacks seem ever more frequent. Investigators believe that a set of top-secret National Security Agency hacking tools were offered to online bidders this summer.
 
-This year, Mr. Musk’s white whale — a car that will get 238 miles per charge, and will sell for about $30,000 after a federal rebate — will finally make it to the roads. Mr. Musk’s master plan has gone exactly as he promised, except for one tiny hitch.
+And many of those worried about expanded government surveillance by the N.S.A. and other agencies have taken steps to secure their communications.
 
-A first affordable long-range electric car, which I drove last month and which blew my mind, is not a Tesla. I had to fly from Silicon Valley to Detroit to drive it because the vehicle was invented not by a celebrated start-up, but by that hoariest cliché of tarnished American manufacturing glory, Chevrolet, which is owned by General Motors.
+In a recent Medium post, Quincy Larson, the founder of Free Code Camp, an open-source community for learning to code, detailed the reasons it might be useful for people to make their personal data more difficult for attackers to access.
 
-The car is the Chevy Bolt EV, a squat, wedge-shaped compact hatchback. It is an important car for G.M., and, in a larger sense, for the traditional auto industry. It demonstrates the seriousness with which automakers are taking the threat posed by start-ups that are promising to alter everything about the car business. Not only is the Bolt the first inexpensive long-range electric on the road, but it will also function as G.M.’s platform for testing new models for ride-sharing and autonomous driving.
+“When I use the term ‘attacker’ I mean anyone trying to access your data whom you haven’t given express permission to,” he wrote. “Whether it’s a hacker, a corporation, or even a government.”
 
-The Bolt is also proof that, in the car industry, size matters — that even if they may be slow to come around to the latest tech, big automakers can alter the car business even more radically than Tesla has, purely as a function of their bigness.
+Continue reading the main story
+In an interview, Mr. Larson walked us through some of the basic steps he recommended. We added a few of our own, based on additional interviews.
 
-Mr. Musk, the chief executive of Tesla and SpaceX, has made a habit of embarrassing his naysayers, but there are increasing signs that his little car-company-that-could is nearing the limits of its potential. This spring, Tesla unveiled its own low-priced car, the Model 3, which will sell for just under $30,000 after a rebate, and will go 215 miles on a charge, which is less than the Bolt. About 400,000 people have paid $1,000 to get on the waiting list for the vehicle, which Tesla says will begin shipping to customers in late 2017.
+We encourage you to write back with feedback on this article. If the instructions are too vague, the apps aren’t working for you or you have additional questions, we want to hear about it. Send an email to smarterliving@nytimes.com.
 
-But few industry analysts think Tesla will meet its production goals, and the very fact that there is a waiting list highlights its fundamental hardship. Tesla paved the way for the broad acceptability of electrics, but the Model 3 is, at this point, merely a concept car. G.M.’s Bolt goes on sale this year, and the company will probably be able to make enough to satisfy everyone who wants one.
+Now, let’s encrypt.
 
-It’s a delicious irony: Cocky billionaire makes grand promises in a blog post. Ten years later, he gets his wish, in the worst way.
+Photo
 
-Before we get to the Bolt’s implications, let me describe the car. Most of the lower-priced fully electric cars on the road today — vehicles like the Nissan Leaf, the BMW i3 or Volkswagen e-Golf — are afflicted with a problem that is a nonstarter for many Americans. They get, at most, around 100 miles per charge. That is enough for a lot of people to get to work and back, but not enough to let them feel entirely comfortable about it.
+Credit Ritchie B. Tongo/European Pressphoto Agency
+1. Download Signal, or Start Using WhatsApp to send text messages.
 
-At the other end of the spectrum are Tesla’s luxury rides, the Model S and Model X, which each get more than 200 miles per charge, enough to put to rest any range anxiety. But relief comes at a cost. After federal rebates, the S starts at $66,000, and the X starts at $74,000.
+Encryption is a fancy computer-person word for scrambling your data until no one can understand what it says without a key. But encrypting is more complex than just switching a couple of letters around.
 
-The Bolt isn’t a luxury car. It’s surprisingly spacious inside (it could easily accommodate two car seats for my children) and has a nicely designed touch-screen infotainment panel. But it looks and largely drives like a generic compact car. What is revolutionary about the Bolt is that it bridges category distinctions — it brings luxury car electric range at mass-market prices. In fact, it beats the luxuries. In their cheapest configurations, every Tesla gets a lower range than the Bolt.
+Mr. Larson said that by some estimates, with the default encryption scheme that Apple uses, “you’d have to have a supercomputer crunching day and night for years to be able to unlock a single computer.”
 
-“Normally for electric vehicles we talk about going from point A to point B and back to A,” said Darin Gesso, G.M.’s product manager for the Bolt. “This car is designed to go from A to B to C to D and back to A, so it has more of a lifestyle focus, and it’s not just a commuter car.”
+He said that the best way to destroy data was not to delete it, because it could potentially be resurrected from a hard drive, but to encode it in “a secure form of cryptography.”
 
-How did G.M. create Tesla’s dream car first? There is a lot to it, as I saw on a tour of the company’s Bolt operations. G.M. started building one of the world’s most advanced battery testing facilities in 2008, around the time the company faced imminent death after the financial crisis. The car that emerged out of that research, the plug-in hybrid Chevy Volt, can be said to have literally saved the company. The Volt was frequently held up as evidence of G.M.’s creativity by politicians who favored a bailout of Detroit. President Obama, who led the successful rescue, said in 2012 that he would buy a Volt after he left office.
+Signal is one of the most popular apps for those who want to protect their text messaging. It is free and extremely easy to use. And unlike Apple’s iMessage, which is also encrypted, the code it uses to operate is open-source.
 
-Most of G.M.’s advantages come down to size and operational efficiency. Tesla has had to build a huge factory to produce the Model 3’s batteries at scale. G.M. batteries are being outsourced to the electronics giant LG Chem. Tesla has had to retool a car-making facility in Fremont, Calif., for its own purposes, while G.M. is tapping into its existing production system. At the company’s Orion Assembly plant outside of Detroit, I saw Bolts on the same line as gas-powered Chevy Sonics and Buick Veranos. Robots and workers seamlessly shifted between the Bolt and more traditional cars as if nothing was different.
-Finally, G.M. enjoys the regulatory advantage of producing a fleet. Because the high-mileage, zero-emission Bolt helps the company stay under the federal government’s fuel-economy standards, it perversely allows G.M. to keep selling more profitable, gas-guzzling cars, like the Tahoe S.U.V. As a result, G.M. could lose money on each Bolt and still find the overall project valuable to its bottom line.
+“You can be sure by looking at the code that they’re not doing anything weird with your data,” Mr. Larson said.
 
-Can Tesla compete with these advantages? Tesla fan boys (they exist) might point out that the Model 3 will have some luxury appointments that the Bolt lacks, including the option to upgrade to Tesla’s semiautonomous driving system, and access to the company’s network of quick-charging stations. Tesla also has brand cachet and exclusivity that elude Chevy. And when its battery factory is running at scale, it should be able to produce batteries at a lower price, bumping up its profitability.
+“In general, the idea behind the app is to make privacy and communication as simple as possible,” said Moxie Marlinspike, the founder of Open Whisper Systems, the organization that developed Signal.
 
-Tesla declined to comment for this article, but analysts I spoke to are skeptical of its plans. One question is whether Tesla will hit its production goals. The company made about 50,000 cars in 2015, and it is on track to produce about 82,000 this year, despite some recent setbacks.
+That means that the app allows you to use emojis, send pictures and enter group texts.
 
-Though Tesla has frequently missed Mr. Musk’s targets, he has again promised big production increases in the coming years. Tesla is aiming to make 100,000 to 200,000 cars in 2017, and 500,000 in 2018. But the company is running out of cash, and investors have been miffed by Mr. Musk’s hasty plan to buy out his solar panel company, Solar City.
+One bit of friction: You do have to persuade your friends to join the service too, if you want to text them. The app makes that easy to do.
 
-Another worry is that Tesla will hit its production targets, but only by skimping on quality. Over the last few decades, in a project first started by Toyota, global car manufacturers have greatly reduced defects using production systems that let workers slow down the line when they spot mistakes. Edward Niedermeyer, an analyst who edits the industry site Daily Kanban, said Tesla has departed from those methods to speed up its line.
+WhatsApp, the popular chat tool, uses Signal’s software to encrypt its messaging. And in Facebook Messenger and Google’s texting app Allo, you can turn on an option that encrypts your messages.
 
-As a result, its cars have been afflicted by poor reliability. Last year, Consumer Reports stopped recommending the Model S after a survey showed that squeaks, rattles, leaks and various other problems plagued customers’ cars.
+Here’s how to do that on Facebook. Here’s how to do it on Allo.
 
-“If you don’t have quality right, you start building cars really quickly, and then a defect happens, and you can’t stop yourself from producing hundreds or thousands of defective vehicles,” Mr. Niedermeyer said.
+Mr. Marlinspike said that the presidential election had sparked a lot of interested in Signal, leading to a “substantial increase in users.”
 
-G.M. has of course had its own share of defects. But its history of building a lot of cars mostly well may be a leg-up over a quickly growing start-up.
+When asked to speculate why that was, Mr. Marlinspike simply said, “Donald Trump is about to be in control of the most powerful, invasive and least accountable surveillance apparatus in the world.”
 
-“We have 108 years of manufacturing know-how,” Pam Fletcher, G.M.’s chief electric vehicles engineer, told me. “This is what we do.”
+To download Signal, click here for iOS, or here for Android.
+
+2. Protect your computer’s hard drive with FileVault or BitLocker.
+
+Your phone may be the device that lives in your pocket, but Mr. Larson described the computer as the real gold mine for personal information.
+
+Even if your data were password protected, someone who gained access to your computer “would have access to all your files if they were unencrypted.”
+
+Luckily, both Apple and Windows offer means of automatic encryption that simply need to be turned on.
+
+Here’s the link to do that for Apple computers. Here’s the one for Windows computers.
+
+3. The way you handle your passwords is probably wrong and bad.
+
+You know this by now. Changing your passwords frequently is one of the simplest things you can do to protect yourself from digital invasion.
+
+But making up new combinations all the time is a hassle.
+
+Mr. Larson recommends password managers, which help store many passwords, with one master password. He said that he uses LastPass, but knows plenty of people who use 1Password and KeePass, and that he doesn’t have a strong reason to recommend one over another.
+
+Not every security expert trusts password managers. Some noted that LastPass itself got hacked last year.
+
+So that means you may want to write them down in one secure location, perhaps a Post-it note at home. It seems more far-fetched that a hacker would bother to break into your home for a Post-it note than find a way into your computer.
+
+If you take that route, we suggest setting a weekly or biweekly calendar reminder to change your passwords.
+
+As far as making passwords up goes: Don’t be precious about it. Use a random word (an object near you while you’re hunched over your Post-it) and a combination of numbers. If you’re writing passwords down, you don’t have to worry about making them memorable.
+
+Photo
+
+Credit Pawel Kopczynski/Reuters
+4. Protect your email and other accounts with two-factor authentication.
+
+When you turn this step on, anyone trying to sign in to your email from new devices will have to go through a secondary layer of security: a code to access the inbox that is sent to your phone via text message. (Though sadly, not through Signal.)
+
+Here’s the link for turning on two-factor authentication for Gmail accounts.
+
+Here’s the one for Yahoo accounts, and here’s one you can use for Outlook accounts.
+
+You can also set two-factor authentication for social media accounts and other sites. But email is the most important account, since many sites use email for password recovery, a fact that has been exploited by hackers. Once they have access to your email, they can get access to banking, social media, data backups and work accounts.
+
+5. Use a browser plug-in called HTTPS Everywhere.
+
+Mr. Marlinspike recommended this plug-in, developed by the Electronic Frontier Foundation, a digital security organization. It ensures that you are accessing the secure form of websites, meaning that your connection to the site will be encrypted, and that you will be protected from various forms of surveillance and hacking.
+
+Download HTTPS Everywhere for Chrome here. For Firefox here.
+
+Here’s a list of FAQ’s about the plug-in, including whether it is available for other browsers.
+
+And this is a good time to note that you should always be aware whether the Wi-Fi network you’re using is secure. Public networks — and even private networks without security keys — often are not.
+
+6. Remember that incognito mode isn’t always private.
+
+You may be in such a hurry to use this feature, available on Chrome, Safari and Firefox, among other browsers, that you do not heed its clear warning.
+
+On Chrome, the second paragraph of the “incognito” home screen is clear.
+
+“You aren’t invisible,” it says. “Going incognito doesn’t hide your browsing from your employer, your internet service provider, or the websites you visit.”
+
+Mr. Larson recommended Tor in his article, a browser that allows for private web activity. But we’re not going to recommend that here, mostly because Tor is relatively slow and clunky at the moment.
+
+“I’ll be honest, I don’t use it very often,” Mr. Larson said.
+
+He said that he suspected other browsers would start adding ways to browse more securely.
+
+“Apple is very security conscious,” he said. “I wouldn’t be surprised if they started to incorporate Tor-like features into Safari.”
+
+7. Do sensitive searches in DuckDuckGo.
+
+Mr. Larson said that if people were paranoid about Google, he would strongly encourage them to use DuckDuckGo, an alternative search engine.
+
+He said however, that he personally, was not paranoid.
+
+“Google is built on the hacker ethic and they have put principle above profits in some aspects,” he said.
+
+But he also acknowledged that he meets “people all the time who are extremely skeptical of any large software organization and I think that’s reasonable.” There are trade-offs. Google’s search results are more useful and accurate than competitors’ precisely because of the ways it collects and analyzes information about its customers’ searches.
